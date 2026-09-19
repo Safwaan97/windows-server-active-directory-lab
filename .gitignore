@@ -1,0 +1,20 @@
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Credentials and private configuration
+*.key
+*.pfx
+*.p12
+*.env
+credentials*
+secrets*
+
+# VMware virtual machine files
+*.vmdk
+*.vmem
+*.vmss
+*.vmsn
+*.nvram
+*.lck
+
