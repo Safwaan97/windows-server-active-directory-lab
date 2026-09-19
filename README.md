@@ -89,6 +89,28 @@ gpresult /scope computer /r
 netsh advfirewall show allprofiles
 ```
 
+## Lab Screenshots
+
+### Active Directory OU Structure and CLIENT01
+
+![Active Directory OU structure](screenshots/active-directory-ou-structure.png)
+
+### Domain User Session on CLIENT01
+
+![Sarah Adams domain session](screenshots/client-domain-user-session.png)
+
+### IT User GPO Verification
+
+![User Group Policy verification](screenshots/user-gpo-verification.png)
+
+### Computer Security Baseline Linked to the Computers OU
+
+![Computer security baseline GPO link](screenshots/computer-baseline-gpo-link.png)
+
+### Computer GPO Verification on CLIENT01
+
+![Computer Group Policy verification](screenshots/computer-gpo-verification.png)
+
 ## Documentation
 
 - [Lab documentation](docs/lab-documentation.md)
