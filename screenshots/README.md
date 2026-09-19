@@ -1,4 +1,11 @@
-# Screenshots
+# Screenshot Index
 
-Screenshots demonstrating the lab configuration and verification will be added here. Before publishing, each image will be reviewed to ensure that it does not expose passwords, authentication tokens, or other sensitive information.
+| File | Evidence demonstrated |
+|---|---|
+| `active-directory-ou-structure.png` | Custom BennettLab OUs and CLIENT01 in the Computers OU |
+| `client-domain-user-session.png` | Successful domain-user session on CLIENT01 |
+| `user-gpo-verification.png` | GPO-IT-User_Baseline applied to the domain user |
+| `computer-baseline-gpo-link.png` | Computer security baseline linked to the Computers OU |
+| `computer-gpo-verification.png` | Computer baseline and Default Domain Policy applied to CLIENT01 |
 
+Screenshots are selected to demonstrate configuration and verification without exposing passwords or authentication secrets.
